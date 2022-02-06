@@ -20,4 +20,7 @@ chmod +x install.sh
 sudo ./install.sh
 ```
 ---
-![image](https://user-images.githubusercontent.com/21257485/152693352-5e4eb5bd-288e-40ed-b7b6-30170a40e621.png)
+
+<img src="https://user-images.githubusercontent.com/21257485/152693352-5e4eb5bd-288e-40ed-b7b6-30170a40e621.png"  style="zoom:33%;" />
+
+<img src="https://user-images.githubusercontent.com/21257485/152693439-014237f7-f8f0-4773-8370-9312a47866b2.png"  style="zoom:33%;" />

@@ -19,3 +19,5 @@ cd impacket-macos
 chmod +x install.sh
 sudo ./install.sh
 ```
+---
+![image](https://user-images.githubusercontent.com/21257485/152693352-5e4eb5bd-288e-40ed-b7b6-30170a40e621.png)
